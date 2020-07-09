@@ -5,6 +5,11 @@ Linguagem Utilizada:
 
 -> Javascript
 
+Ferramentas Utilizadas:
+
+-> Visual Studio Code
+-> Insomnia
+
 Tecnologias Utilizadas:
 
 -> NodeJS - framework javascript
